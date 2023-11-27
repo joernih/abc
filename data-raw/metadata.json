@@ -1,0 +1,101 @@
+{
+  "kursnavn": "ØKA201 Data analysis and programming for economists",
+  "url" : "https://www.hiof.no/english/studies/courses/iio/ois/2024/spring/oka201.html",
+  "lect" : {
+    "weeknr" : [1,2,3],
+    "date" : [1,2,3],
+    "topic" : {
+	"lect": [
+		"Statistical tests og basic installations of R and RStudio",
+		"Regression analysis I",
+		"Basic commands and function in R, part I",
+		"Regression analysis II",
+		"Basic commands in R, part II",
+		"Regression analysis III",
+                "RMarkdown",
+                "Probability models",
+                "Data wrangling",
+                "Time series",
+	        "Regression analysis (graphical and numerically)",
+	        "Panel data",
+	        "Packages in R",
+	        "Model evalution"
+		],
+	"resp": ["BK,JIH","BK","JIH","BK","JIH","BK","JIH","BK","JIH","BK","JIH","BK","JIH","BK"],
+	"litt": [
+		"Chap. 5",
+		"Lecture notes",
+		"Chap. 6",
+		"Kap x",
+		"Chap. 7",
+		"Kap x",
+		"Kap 8",
+		"Kap x",
+		"Kap 10",
+		"Kap x",
+		"Kap 10",
+		"Kap x",
+		"Kap 10",
+		"Kap 10"
+	]
+    }
+  } ,
+ "JIH":{
+ "lec_ins":{
+   "nvn":["Installation of R and RStudio"],
+   "toc":{
+   "toc1":["R","Rmore"],
+   "toc2":["RStudio","RStudio more"]
+   }
+ },
+ "lec_bscR1":{
+   "nvn":["Basic R commands part I"],
+   "toc":{
+   "toc1":["R","Rmore"],
+   "toc2":["RStudio","RStudio more"]
+   }
+ },
+ "lec_bscR2":{
+   "nvn":["Basic R commands part II"],
+   "toc":[1,2,3]
+ },
+ "lec_RMqmd":{
+   "nvn":["Quarto-fils in R"],
+   "toc":[1,2,3]
+ },
+ "lec_Dataw":{
+   "nvn":["Data-wrangling"],
+   "toc":[1,2,3]
+ },
+ "lec_Rega":{
+   "nvn":["Regression analysis"],
+   "toc":[1,2,3]
+ },
+ "lec_pacR":{
+   "nvn":["Packages in R"],
+   "toc":["A","B","C"]
+ }
+ },
+ "BKK":{
+ "lec_ins":{
+   "toc":["Installereing","Abc"]
+ },
+ "lec_stte":{
+ },
+ "lec_reg1":{
+ },
+ "lec_reg2":{
+ },
+ "lec_reg3":{
+ },
+ "lec_prom":{
+ },
+ "lec_tims":{
+ },
+ "lec_pand":{
+ },
+ "lec_moev":{
+ }
+ }
+}
+
